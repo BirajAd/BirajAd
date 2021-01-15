@@ -1,4 +1,4 @@
-### Hi there 👋, I am Biraj. I am currently a senior student at Minnesota State University, Mankato and I am graduating in spring.
+### Hi there 👋, I am Biraj. I am currently a senior student at Minnesota State University, Mankato and I am graduating in 2021 Spring.
 
 <h3>Interests:</h3>
 <ul>
