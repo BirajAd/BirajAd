@@ -1,6 +1,39 @@
-### Hi there 👋
+### Hi there 👋, I am Biraj. I am currently a student at Minnesota State University, Mankato. 
+
+<h3>Interests:</h3>
+<ul>
+  <li>Software Development</li>
+  <li>Data Science</li>
+  <li>Machine Learning</li>
+  <li>AI</li>
+</ul>
+
+<h3 style="color: green">Skills:</h3>
+<ul>
+  <li>Python</li> 
+  <li>Django, Flask</li>
+  <li>C#</li>
+  <li>.NET Core</li>
+  <li>Docker</li>
+  <li>Java</li>
+</ul>
+
+<h5>Tools I use: </h5>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+<h2>Contact: </h2>
+<p>&emsp;Email: adhikari.biraj1@gmail.com</p>
+<p>&emsp;LinkedIn: https://www.linkedin.com/in/biraj-adhikari-9b309a145/</p>
+
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirajAd&theme=dark" />
+
 **BirajAd/BirajAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
