@@ -1,4 +1,4 @@
-### Hi there 👋, I am Biraj. I am currently a student at Minnesota State University, Mankato. 
+### Hi there 👋, I am Biraj. I am currently a senior student at Minnesota State University, Mankato and I am graduating in spring.
 
 <h3>Interests:</h3>
 <ul>
@@ -31,8 +31,8 @@
 <h2>Contact: </h2>
 <p>&emsp;Email: adhikari.biraj1@gmail.com</p>
 
-
 <!--
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirajAd&theme=dark" />
 
 **BirajAd/BirajAd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
