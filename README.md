@@ -26,9 +26,10 @@
 ![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+
 <h2>Contact: </h2>
 <p>&emsp;Email: adhikari.biraj1@gmail.com</p>
-<p>&emsp;LinkedIn: https://www.linkedin.com/in/biraj-adhikari-9b309a145/</p>
 
 
 <!--
