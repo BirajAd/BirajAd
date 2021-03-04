@@ -25,6 +25,10 @@
 ![](https://img.shields.io/badge/ML-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-.NET-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
