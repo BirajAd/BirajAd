@@ -13,6 +13,7 @@
   <li>Python</li> 
   <li>Django, Flask</li>
   <li>C#</li>
+  <li>C++</li>
   <li>.NET Core</li>
   <li>Docker</li>
   <li>Java</li>
