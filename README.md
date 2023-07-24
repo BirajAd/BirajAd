@@ -1,4 +1,4 @@
-### Hi there 👋, I am Biraj, a junior data scientist at Bluewater Fintech.
+### Hi there 👋, I am Biraj, software developer at Bluewater Fintech.
 
 
 <h3>Interests:</h3>
